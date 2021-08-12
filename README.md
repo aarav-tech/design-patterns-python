@@ -14,7 +14,6 @@
   - Simple Factory
   - Factory method
   - Abstract factory
-- Facade - https://youtu.be/tGK0pIbJYYg
 
 ### Behavioural Design Patterns
 - Command - https://youtu.be/Z7vHUey-fb8
@@ -23,3 +22,4 @@
 
 ### Structural Design Patterns
 - Proxy - https://youtu.be/3A-G35mQqZo
+- Facade - https://youtu.be/tGK0pIbJYYg
